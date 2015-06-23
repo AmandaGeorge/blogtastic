@@ -1,1 +1,2 @@
-# blogtastic
+#README
+Blogtastic readme file
